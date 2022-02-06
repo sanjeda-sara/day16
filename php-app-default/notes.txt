@@ -1,0 +1,85 @@
+php class 3
+-------------
+name of each class should start with capital letter alphabet
+
+-class er bhitor property ar method thake
+-App--virtual directory parent folder
+index.php is a php file/view file 
+
+$example = new Example();
+$example -> index(); //method called 
+
+
+access modifier: public, protected, private
+
+
+  	======= OPERATOR =========
+	--------------------------
+        ***Arithmatic Operator:
+                Binary Operator (+, -, *, /, %)
+                Unary Operator (++, --, (-))
+        ***Assignment Operator (=, +=, -=, *=, /=, %=, =)
+        *** Conditional Operator (>, >=, <. <=, ==, !=, ===, !===  )
+        ***Logical Operator (&&, ||, !)
+
+-->Zero, NULL, and EMPTY STRING are similar so might no show in some cases
+
+switch is case sensitive
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
